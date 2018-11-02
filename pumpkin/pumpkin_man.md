@@ -1,3 +1,4 @@
+# You've chosen the pumpkin path...
 #### A man with a pumpkin head approaches you.  
 ###### What do you do?
 
