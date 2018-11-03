@@ -3,4 +3,4 @@
 ###### What do you do?
 
 [Run past him!](darkness.md)  
-[Turn back...](../home.md)
+[Run away!](../lost.md)
