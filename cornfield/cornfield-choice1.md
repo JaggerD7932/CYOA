@@ -6,3 +6,8 @@ can see a scarecrow. Which path will you choose?
 The path that leads to the [farmhouse](farmhouse.md)
 or
 the path that leads to the [scarecrow](scarecrow.md)?
+
+![farmhouse](abandoned-farmhouse.jpg)  
+###### image credit: Mike Tewkesbury from urbanghostsmedia.com
+![scarecrow](negative-scarecrow.jpg)
+###### image credit: Jordan Teicher from contently.com

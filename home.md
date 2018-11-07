@@ -4,3 +4,4 @@ There are two paths you can choose. Choose to go through the [pumpkin path](pump
 the [cornfield path](cornfield/cornfield-choice1.md).  
 ![yourchoice](choices.jpg)  
 ###### Image from StanciuC on BigStock
+

@@ -4,3 +4,6 @@ on the corner on the floor. There appears to be nobody inside, so you walk over 
 piece of paper on the the floor and pick it up. It's a map of the cornfield maze!
 
 You follow the [map](ending.md) to get to the end of the maze.
+
+![map.jpg](map.jpg)
+###### image credit: unoriginalmom.com
