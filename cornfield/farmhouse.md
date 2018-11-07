@@ -4,4 +4,4 @@ farmhouse. As you keep walking, you start to hear a sound. The sound is coming f
 something or _someone_ is inside. What do you do?  
 Do you go inside and [explore](map.md)
 or
-do you ignore it and [walk away](lost.md)?
+do you ignore it and [walk away](../lost.md)?
